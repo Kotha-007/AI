@@ -18,3 +18,5 @@ Python
 - Animated Search Traversal
 - Algorithm Implementation
 - Traversal Output
+## BFS Animated Visualization
+![BFS Animation](BFS.gif)
