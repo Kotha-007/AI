@@ -20,3 +20,5 @@ Python
 - Traversal Output
 ## BFS Animated Visualization
 ![BFS Animation](BFS.gif)
+## DFS Animation Visualization
+![DFS Animation](DFS.gif)
