@@ -26,3 +26,5 @@ Python
 ![DLS Animation](DLS.gif)
 ## IDS Animation Visualization
 ![IDS Animation](IDS.gif)
+## UCS Animation Visualization
+![UCS Animation](UCS.gif)
