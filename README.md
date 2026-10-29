@@ -22,3 +22,5 @@ Python
 ![BFS Animation](BFS.gif)
 ## DFS Animation Visualization
 ![DFS Animation](DFS.gif)
+## DLS Animation Visualization
+![DLS Animation](DLS.gif)
